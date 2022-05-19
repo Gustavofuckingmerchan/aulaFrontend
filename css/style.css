@@ -7,10 +7,21 @@ body{
     background-color:dodgerblue;
 }
 #foto{
-  margin-top: -100px;
-  margin-left: 10px;
-  margin-right: 1200px;
-  border-radius: 50%;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 60px;
+  border-radius: 45%;
 }
 
-    
+.d-block{
+  margin: 350px;
+}
+.titulo{
+  font-size: large;
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+}
+.rodepe{
+  background-image: unset;
+}
