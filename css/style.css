@@ -4,7 +4,7 @@
     background-color:black;
 }
 body{
-    background-color:dodgerblue;
+    background-color:#EF6024;
 }
 #foto{
   margin-top: 10px;
@@ -22,6 +22,21 @@ body{
   text-align: center;
   margin-top: 100px;
 }
-.rodepe{
-  background-image: unset;
+.rodape{
+  background-image: url(../img/img6.jpg);
+  margin: 50px;
+  padding: 50px;
+  
+  
+  
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.conteudo{
+  color: white;
 }
