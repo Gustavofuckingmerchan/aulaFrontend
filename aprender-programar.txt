@@ -1,0 +1,14 @@
+1-Defina seu objetivo final(específico,quebrando em passos de estudo)
+-Criar um conversor de mídias com jaavascript
+2-Defina a data para entrega desse objetivo
+-diga publicamente o que irá fazer e diga quando irá mostrar aquilo(27/09/2022)
+3-Consuma o conteúdo do treinamento por 1hr/d
+-(dentro deste tempo de estudos)
+-Faça os exercícios
+-Faça os Projetos
+-Pesquisar no google por exer/proje
+4-Documentar a sua evolução
+-coloque todo seu projeto/exercícios no git+github
+-Compartilhamento de entregas parciais(linkedIn)
+-(Bônus)-Escrever como fez aquilo(artigo/blog)
+5-Siga isso por pelo menos 1 mês(6 mêses)
